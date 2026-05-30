@@ -199,7 +199,7 @@ p.note { display: none; }
 <h2><span class="yellow">写真ではなくて、画面キャプチャでもこのレベル・・・</span></h2>
 <a href="20260530_017.JPG" target="_blank"><img src="20260530_017.JPG" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">最後は宵の口の西の空ですが、イマイチ星座がトレースできませんね〜</span></h2>
+<h2><span class="yellow">最後は宵の口の西の空ですが、イマイチ星座がトレースできませんね〜<br>地平近くの３つの星は右からふたご座のカストル、ボルックス、一番明るいのが木星か？</span></h2>
 <a href="20260530_018.JPG" target="_blank"><img src="20260530_018.JPG" alt="サンプル画像" class="responsive-media"></a>
 
 <!--
